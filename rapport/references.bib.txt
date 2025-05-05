@@ -1,0 +1,55 @@
+@article{friedlingstein2006climate,
+  title={Climate--carbon cycle feedback analysis: Results from the C 4 MIP model intercomparison},
+  author={Friedlingstein, Pierre and Cox, Peter and Betts, Richard and Bopp, Laurent and von Bloh, Werner and Brovkin, Victor and Cadule, Patricia and Doney, Scott and Eby, Michael and Fung, Inez and others},
+  journal={Journal of climate},
+  volume={19},
+  number={14},
+  pages={3337--3353},
+  year={2006}
+}
+
+
+@article{jenkinson1977turnover,
+  title={The turnover of soil organic matter in some of the Rothamsted classical experiments},
+  author={Jenkinson, DS and Rayner, JH},
+  journal={Soil science},
+  volume={123},
+  number={5},
+  pages={298--305},
+  year={1977},
+  publisher={LWW}
+}
+
+
+@article{manzoni2009soil,
+  title={Soil carbon and nitrogen mineralization: Theory and models across scales},
+  author={Manzoni, Stefano and Porporato, Amilcare},
+  journal={Soil Biology and Biochemistry},
+  volume={41},
+  number={7},
+  pages={1355--1379},
+  year={2009},
+  publisher={Elsevier}
+}
+
+
+@article{into1988division,
+  title={DIVISION S-3-SOIL MICROBIOLOGY AND BIOCHEMISTRY},
+  author={into Soil, Biodegradable Organic Waste Injected},
+  journal={Soil Sci. Soc. Am. J},
+  volume={52},
+  pages={102--108},
+  year={1988}
+}
+
+
+@article{sitch2003evaluation,
+  title={Evaluation of ecosystem dynamics, plant geography and terrestrial carbon cycling in the LPJ dynamic global vegetation model},
+  author={Sitch, Stephen and Smith, Benjamin and Prentice, I Colin and Arneth, Almut and Bondeau, Alberte and Cramer, Wolfgang and Kaplan, Jed O and Levis, Samuel and Lucht, Wolfgang and Sykes, M Thonicke and others},
+  journal={Global change biology},
+  volume={9},
+  number={2},
+  pages={161--185},
+  year={2003},
+  publisher={Wiley Online Library}
+}
