@@ -85,4 +85,5 @@ plt.ylabel("Concentrations (GTc)")
 plt.grid(True)
 plt.legend()
 plt.title("Évolution de C_T")
+
 plt.show()
